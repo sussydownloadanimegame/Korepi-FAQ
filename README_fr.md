@@ -52,7 +52,7 @@
 
 ## 4 - Ou puis-je vous faire une donation?
 
-- L'adresse afin d'effectuer une donation peut êtr trouver ci-dessous ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (sur le serveur discord [Cotton Buds](https://discord.gg/cottonbuds)
+- L'adresse afin d'effectuer une donation peut êtr trouver ci-dessous ⁠[#sponsorship](https://discord.com/channels/1069057220802781265/1097565269985071205) (sur le serveur discord [Cotton Buds]).(https://discord.gg/cottonbuds)
 
 ## 5 - Comment puis-je l'utiliser si je l'ai déjà installer?
 
